@@ -1,0 +1,13 @@
+
+{
+    "name": "com.revenantx.liteentitysystem",
+    "displayName": "LiteEntitySystem",
+    "author": { "name": "RevenantX", "url": "https://github.com/RevenantX" },
+    "version": "1.0.1",
+    "unity": "2018.4",
+    "description": "Pure C# HighLevel API for multiplayer games using .NET Standard 2.1",
+    "keywords": [],
+    "license": "Apache-2.0",
+    "category": "Task",
+    "dependencies": {}
+}
